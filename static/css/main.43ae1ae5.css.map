@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.43ae1ae5.css","mappings":"AAAA,OACE,aAGF,OACE","sources":["App.scss"],"sourcesContent":["iframe {\r\n  display: none;\r\n}\r\n\r\nbutton {\r\n  cursor: pointer;\r\n}\r\n"],"names":[],"sourceRoot":""}
